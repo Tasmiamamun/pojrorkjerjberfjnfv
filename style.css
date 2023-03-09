@@ -1,0 +1,20 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: rgb(98, 0, 255);
+}
+canvas
+{
+	background: rgb(111, 201, 198);
+	border-radius: 20px;
+    border-color: black;
+    box-shadow: none;
+    box-sizing: border-box;
+}
+#draw{
+background-color: red;
+}
